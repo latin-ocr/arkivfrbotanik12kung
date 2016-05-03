@@ -1,0 +1,45 @@
+20 ARKIV Fon BOTANIK. ΒΑΜ) 12. ivo 14.
+
+These numbers give:
+
+Pz'stil
+
+M= 4,36 ss 0,12
+
+σ =O‚5o ss O‚os
+on -- O,11.
+
+Stifflna.
+M =0‚291 ss 0‚017
+
+σ = O‚045 ὲ 0‚01<2
+σ : M = O‚16.
+
+Both measures were performed with the oeular—miero-
+meter.
+
+C) Correlation. I have examined above some cases of
+correlation belonging to the dominion of homograde stati-
+sties, as the correlation between the number of flower·stalks
+and the number of leaves in the rosule, the correlation
+between the thickness of the stem and the number of flower-
+stalks and other similar questions In those cases it was
+stated that a correlation between two characters did exist,
+but no numerica-l measure of the de9ree of that correlation
+was given. It is, indeed, not impossible to find such mea-
+sureS‚ but either are they in many cases somewhat arbitrarily
+chosen or, in otherS, mathematioally more intricate to eal·
+eulate and I have left them here out of consideration, con-
+fining me to such elementary methods as are given in the
+›>Grunddragen›>.
+
+In heterograde statisties such a measure of the degree
+of correlation between two characters is well defined and
+easy to calculate numerieally. It is the so called coejsz‘cient
+os correlation (r). I give beneath the value of this coeffieient
+for 5 pairs of characters of Trientalis europaea.
+
+15. Correlation between the lenyth os the stamen (s) and
+the Zenqth os the pistil (p). There were only 13 simultaneous
+values of s and p.
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik12kung_0756.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2628 1838 2636 1879">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2628 1838 2636 1879">
+     <span class='ocr_line' id='line_1_1' title="bbox 2628 1838 2636 1879; baseline -41 0"><span class='ocrx_word' id='word_1_1' title='bbox 2628 1838 2636 1879; x_wconf 57' lang='grc' dir='ltr'><em>Ι,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 864 1217 1848 2721">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 864 1217 1848 2721">
+     <span class='ocr_line' id='line_1_2' title="bbox 864 1217 1848 2721"><span class='ocrx_word' id='word_1_2' title='bbox 864 1217 1848 2721; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2726 3554 2752 3570">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2726 3554 2752 3570">
+     <span class='ocr_line' id='line_1_3' title="bbox 2726 3554 2752 3570; baseline 0 -8"><span class='ocrx_word' id='word_1_3' title='bbox 2726 3554 2752 3570; x_wconf 62' lang='grc'><em>,-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

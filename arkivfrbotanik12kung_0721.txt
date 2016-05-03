@@ -1,0 +1,49 @@
+C. V. L. CHARLIER, TRIENTALIS EUROPAEA. 3
+
+probabilities for gathering a specimen having 1, 2 or 3 flower-
+stalkS. Hence we have:
+
+probability (p) of 1 flower-stalk = Ο,7271
+>> 2 {lower-stalks = O,2473
+» 3 v = 0‚0256
+
+Often it is preferred to express these results saying that
+in 72,71 (ἒξ, of all cases we may find a sample of Trientalis
+europaea having 1 flower-stalk, in 24‚73 (ἐξ) we may find a
+sample with 2 stalks and in 25ss (ἑξ, samples With 3 stalkS.
+Ι will, however, generally prefer to use the ›>probabilities›> in-
+
+stead of the procentual numbers,
+It is now of essential importance to evaluate the un-
+
+certainty of the probabilities thus found. Obviously the
+uncertainty is smaller‚ the larger the number of counts is,
+on which the calculation is based. More precisely, let Pbe
+the total number of individuals considered (= the »popula-
+tion›>), let N denote the number of individuals having one
+
+flower-stalk and put
+
+p = N .· P ς
+q=1—p=(P—N):P‚
+
+then the mean-error — e(p) —— in the probability p, through
+which the uncertainty in p is mathematically defined, is given
+
+by the formula
+ε (20) == ss VJ}
+
+Applying this formala to the above results we find:
+
+probability of l {lower-stalk O‚7271 ss 0,0206
+>> ‘2 {lower-stalks 0,2473 :k 0‚0200
+2> 3 » O‚0256 ὲ 0‚0073
+
+The mean-errors are given after the probabilitieS, sepa-
+rated by the sign ss.
+
+The above formula for the mean-error is valid‚ supposing
+the theorem of BERNOULLI to be here applicable. Througha
+division of the material I have found this to be very nearly
+the case.
+
